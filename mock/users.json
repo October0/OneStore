@@ -1,0 +1,356 @@
+{
+    "RECORDS": [
+        {
+            "_id": {
+                "$oid": "5cab3ec52913260a78003722"
+            },
+            "addressList": [
+                {
+                    "addressId": "100001",
+                    "userName": "JackBean",
+                    "streetName": "北京市朝阳区朝阳公园",
+                    "postCode": "100001",
+                    "tel": "12345678901",
+                    "isDefault": false
+                },
+                {
+                    "addressId": "100004",
+                    "userName": "Mary",
+                    "streetName": "北京市朝阳区SOHO",
+                    "postCode": "100005",
+                    "tel": "010555555",
+                    "isDefault": false
+                },
+                {
+                    "addressId": "100005",
+                    "userName": "Donie",
+                    "streetName": "北京市海淀区西二旗",
+                    "postCode": "100009",
+                    "tel": "18710987654",
+                    "isDefault": false
+                },
+                {
+                    "addressId": "100006",
+                    "userName": "Cherry",
+                    "streetName": "北京市海淀区回龙观",
+                    "postCode": "100009",
+                    "tel": "010655555",
+                    "isDefault": false
+                },
+                {
+                    "addressId": "100008",
+                    "userName": "Frank",
+                    "streetName": "北京市海淀区中关村软件园",
+                    "postCode": "100011",
+                    "tel": "10125652345",
+                    "isDefault": false
+                },
+                {
+                    "_id": {
+                        "$oid": "5cac934736c69023ac9b084a"
+                    },
+                    "addressId": "1002201904094",
+                    "userName": "sen",
+                    "streetName": "湖北武汉",
+                    "tel": 158274995885,
+                    "isDefault": true
+                }
+            ],
+            "cartList": [],
+            "orderList": [
+                {
+                    "orderId": "6224201705302250301",
+                    "orderTotal": 3359,
+                    "addressInfo": {
+                        "addressId": "100001",
+                        "userName": "JackBean",
+                        "streetName": "北京市朝阳区朝阳公园",
+                        "postCode": 100001,
+                        "tel": 12345678901,
+                        "isDefault": true
+                    },
+                    "goodsList": [
+                        {
+                            "productId": "201904023",
+                            "productName": "坚果 Pro 2S",
+                            "productDec": "双系统，无限屏",
+                            "salePrice": 1798,
+                            "productImage": "static/goods3.webp",
+                            "color": "black",
+                            "capacity": "8G + 128GB",
+                            "productNum": "1",
+                            "checked": "1"
+                        },
+                        {
+                            "productId": "201904035",
+                            "productName": "卫衣 阿加莎·克里斯蒂出生",
+                            "productDec": "风格简洁、舒适服帖",
+                            "salePrice": 249,
+                            "productImage": "static/circum5.webp",
+                            "color": "white",
+                            "id": "1",
+                            "productNum": "3",
+                            "checked": "1"
+                        }
+                    ],
+                    "orderStatus": "1",
+                    "createDate": "2018-05-30 22:50:30"
+                },
+                {
+                    "_id": {
+                        "$oid": "5cab3eedd801de4118d236dd"
+                    },
+                    "orderId": "6229201904082030370",
+                    "orderTotal": {
+                        "$numberInt": "32512"
+                    },
+                    "addressInfo": {
+                        "addressId": "100001",
+                        "userName": "JackBean",
+                        "streetName": "北京市朝阳区朝阳公园",
+                        "postCode": "100001",
+                        "tel": "12345678901",
+                        "isDefault": true
+                    },
+                    "goodsList": [
+                        {
+                            "_id": {
+                                "$oid": "5cab3eedd801de4118d236e0"
+                            },
+                            "productId": "201904021",
+                            "productName": "坚果 R1",
+                            "productDec": "次世代旗舰手机",
+                            "salePrice": {
+                                "$numberInt": "4999"
+                            },
+                            "productImage": "static/goods1.webp",
+                            "color": "white",
+                            "capacity": "6G + 128GB",
+                            "productNum": {
+                                "$numberInt": "6"
+                            },
+                            "checked": {
+                                "$numberInt": "1"
+                            }
+                        },
+                        {
+                            "_id": {
+                                "$oid": "5cab3eedd801de4118d236df"
+                            },
+                            "productId": "201904035",
+                            "productName": "卫衣 阿加莎·克里斯蒂出生",
+                            "productDec": "风格简洁、舒适服帖",
+                            "salePrice": {
+                                "$numberInt": "249"
+                            },
+                            "productImage": "static/circum5.webp",
+                            "color": "white",
+                            "productNum": {
+                                "$numberInt": "3"
+                            },
+                            "checked": {
+                                "$numberInt": "1"
+                            }
+                        },
+                        {
+                            "_id": {
+                                "$oid": "5cab3eedd801de4118d236de"
+                            },
+                            "productId": "201904023",
+                            "productName": "坚果 Pro 2S",
+                            "productDec": "双系统，无限屏",
+                            "salePrice": {
+                                "$numberInt": "1798"
+                            },
+                            "productImage": "static/goods3.webp",
+                            "color": "black",
+                            "capacity": "8G + 128GB",
+                            "productNum": {
+                                "$numberInt": "1"
+                            },
+                            "checked": {
+                                "$numberInt": "1"
+                            }
+                        }
+                    ],
+                    "createDate": "2019-04-08 20:30:37"
+                },
+                {
+                    "_id": {
+                        "$oid": "5cab5ef0be478d333ca52783"
+                    },
+                    "orderId": "6225201904082247127",
+                    "orderTotal": {
+                        "$numberInt": "9989"
+                    },
+                    "addressInfo": {
+                        "addressId": "1008201904080",
+                        "userName": "sen",
+                        "streetName": "湖北武汉",
+                        "tel": "1584288568",
+                        "isDefault": true
+                    },
+                    "goodsList": [
+                        {
+                            "_id": {
+                                "$oid": "5ca75e9c2913260264006a68"
+                            },
+                            "productId": "201904021",
+                            "productName": "坚果 R1",
+                            "productDec": "次世代旗舰手机",
+                            "salePrice": {
+                                "$numberInt": "4999"
+                            },
+                            "productImage": "static/goods1.webp",
+                            "productNum": {
+                                "$numberInt": "2"
+                            },
+                            "checked": {
+                                "$numberInt": "1"
+                            },
+                            "color": ""
+                        }
+                    ],
+                    "createDate": "2019-04-08 22:47:12"
+                },
+                {
+                    "_id": {
+                        "$oid": "5cac61df6de03f130c653ac2"
+                    },
+                    "orderId": "6228201904091711592",
+                    "orderTotal": {
+                        "$numberInt": "9989"
+                    },
+                    "addressInfo": {
+                        "addressId": "1006201904096",
+                        "userName": "sen",
+                        "streetName": "湖北武汉",
+                        "tel": "1234579464979",
+                        "isDefault": true
+                    },
+                    "goodsList": [
+                        {
+                            "_id": {
+                                "$oid": "5ca75e9c2913260264006a68"
+                            },
+                            "productId": "201904021",
+                            "productName": "坚果 R1",
+                            "productDec": "次世代旗舰手机",
+                            "salePrice": {
+                                "$numberInt": "4999"
+                            },
+                            "productImage": "static/goods1.webp",
+                            "productNum": {
+                                "$numberInt": "2"
+                            },
+                            "checked": {
+                                "$numberInt": "1"
+                            },
+                            "color": ""
+                        }
+                    ],
+                    "createDate": "2019-04-09 17:11:59"
+                },
+                {
+                    "_id": {
+                        "$oid": "5cac930136c69023ac9b0843"
+                    },
+                    "orderId": "6224201904092041372",
+                    "orderTotal": {
+                        "$numberInt": "4990"
+                    },
+                    "addressInfo": {
+                        "addressId": "1006201904096",
+                        "userName": "sen",
+                        "streetName": "湖北武汉",
+                        "tel": "1234579464979",
+                        "isDefault": true
+                    },
+                    "goodsList": [
+                        {
+                            "_id": {
+                                "$oid": "5ca75e9c2913260264006a68"
+                            },
+                            "productId": "201904021",
+                            "productName": "坚果 R1",
+                            "productDec": "次世代旗舰手机",
+                            "salePrice": {
+                                "$numberInt": "4999"
+                            },
+                            "productImage": "static/goods1.webp",
+                            "productNum": {
+                                "$numberInt": "1"
+                            },
+                            "checked": {
+                                "$numberInt": "1"
+                            },
+                            "color": ""
+                        }
+                    ],
+                    "createDate": "2019-04-09 20:41:37"
+                },
+                {
+                    "_id": {
+                        "$oid": "5cac932736c69023ac9b0847"
+                    },
+                    "orderId": "6229201904092042158",
+                    "orderTotal": {
+                        "$numberInt": "8779"
+                    },
+                    "addressInfo": {
+                        "addressId": "100001",
+                        "userName": "JackBean",
+                        "streetName": "北京市朝阳区朝阳公园",
+                        "postCode": "100001",
+                        "tel": "12345678901",
+                        "isDefault": true
+                    },
+                    "goodsList": [
+                        {
+                            "_id": {
+                                "$oid": "5ca75e9c2913260264006a68"
+                            },
+                            "productId": "201904021",
+                            "productName": "坚果 R1",
+                            "productDec": "次世代旗舰手机",
+                            "salePrice": {
+                                "$numberInt": "4999"
+                            },
+                            "productImage": "static/goods1.webp",
+                            "productNum": {
+                                "$numberInt": "1"
+                            },
+                            "checked": {
+                                "$numberInt": "1"
+                            },
+                            "color": ""
+                        },
+                        {
+                            "_id": {
+                                "$oid": "5ca75efa2913260264006a6c"
+                            },
+                            "productId": "201904025",
+                            "productName": "坚果 Pro 2 特别版",
+                            "productDec": "漂亮得不像实力派",
+                            "salePrice": {
+                                "$numberInt": "1899"
+                            },
+                            "productImage": "static/goods5.webp",
+                            "productNum": {
+                                "$numberInt": "2"
+                            },
+                            "checked": {
+                                "$numberInt": "1"
+                            },
+                            "color": ""
+                        }
+                    ],
+                    "createDate": "2019-04-09 20:42:15"
+                }
+            ],
+            "userId": "100000077",
+            "userName": "12345678910",
+            "userPwd": "123456"
+        }
+    ]
+}

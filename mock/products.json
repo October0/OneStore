@@ -1,0 +1,1253 @@
+{
+    "RECORDS": [
+        {
+            "_id": {
+                "$oid": "5ca75e9c2913260264006a68"
+            },
+            "productId": "201904021",
+            "productName": "坚果 R1",
+            "productNick": "坚果 R1",
+            "productDec": "次世代旗舰手机",
+            "salePrice": 4999,
+            "productImage": "static/goods1.webp",
+            "productUrl": "",
+            "colors": [
+                {
+                    "id": "1",
+                    "dec": "碳黑色",
+                    "color": "black"
+                },
+                {
+                    "id": "2",
+                    "dec": "纯白色",
+                    "color": "white"
+                },
+                {
+                    "id": "3",
+                    "dec": "孔雀蓝",
+                    "color": "blue"
+                }
+            ],
+            "capacityList": [
+                {
+                    "id": "1",
+                    "dec": "6G + 64GB"
+                },
+                {
+                    "id": "2",
+                    "dec": "6G + 128GB"
+                },
+                {
+                    "id": "3",
+                    "dec": "8G + 128GB"
+                },
+                {
+                    "id": "4",
+                    "dec": "8G + 512GB"
+                },
+                {
+                    "id": "5",
+                    "dec": "8G + 1T"
+                }
+            ],
+            "info": [
+                {
+                    "src": "static/detail1.webp",
+                    "id": "1"
+                },
+                {
+                    "src": "static/detail2.webp",
+                    "id": "2"
+                },
+                {
+                    "src": "static/detail3.webp",
+                    "id": "3"
+                },
+                {
+                    "src": "static/detail4.webp",
+                    "id": "4"
+                },
+                {
+                    "src": "static/detail5.webp",
+                    "id": "5"
+                },
+                {
+                    "src": "static/detail6.webp",
+                    "id": "6"
+                },
+                {
+                    "src": "static/detail7.webp",
+                    "id": "7"
+                },
+                {
+                    "src": "static/detail8.webp",
+                    "id": "8"
+                },
+                {
+                    "src": "static/detail9.webp",
+                    "id": "9"
+                },
+                {
+                    "src": "static/detail10.webp",
+                    "id": "10"
+                },
+                {
+                    "src": "static/detail11.webp",
+                    "id": "11"
+                },
+                {
+                    "src": "static/detail12.webp",
+                    "id": "12"
+                },
+                {
+                    "src": "static/detail13.webp",
+                    "id": "13"
+                },
+                {
+                    "src": "static/detail14.webp",
+                    "id": "14"
+                },
+                {
+                    "src": "static/detail15.webp",
+                    "id": "15"
+                },
+                {
+                    "src": "static/detail16.webp",
+                    "id": "16"
+                },
+                {
+                    "src": "static/detail17.webp",
+                    "id": "17"
+                }
+            ],
+            "productNum": 1,
+            "checked": 0
+        },
+        {
+            "_id": {
+                "$oid": "5ca75ecd2913260264006a69"
+            },
+            "productId": "201904022",
+            "productName": "坚果 R1",
+            "productNick": "坚果 R1",
+            "productDec": "次世代旗舰手机，内藏来自未来的“电脑”",
+            "salePrice": 3799,
+            "productImage": "static/goods2.webp",
+            "productUrl": "",
+            "colors": [
+                {
+                    "id": "1",
+                    "dec": "碳黑色",
+                    "color": "black"
+                },
+                {
+                    "id": "2",
+                    "dec": "纯白色",
+                    "color": "white"
+                },
+                {
+                    "id": "3",
+                    "dec": "孔雀蓝",
+                    "color": "blue"
+                }
+            ],
+            "capacityList": [
+                {
+                    "id": "1",
+                    "dec": "6G + 64GB"
+                },
+                {
+                    "id": "2",
+                    "dec": "6G + 128GB"
+                },
+                {
+                    "id": "3",
+                    "dec": "8G + 128GB"
+                },
+                {
+                    "id": "4",
+                    "dec": "8G + 512GB"
+                },
+                {
+                    "id": "5",
+                    "dec": "8G + 1T"
+                }
+            ],
+            "info": [
+                {
+                    "src": "static/detail1.webp",
+                    "id": "1"
+                },
+                {
+                    "src": "static/detail2.webp",
+                    "id": "2"
+                },
+                {
+                    "src": "static/detail3.webp",
+                    "id": "3"
+                },
+                {
+                    "src": "static/detail4.webp",
+                    "id": "4"
+                },
+                {
+                    "src": "static/detail5.webp",
+                    "id": "5"
+                },
+                {
+                    "src": "static/detail6.webp",
+                    "id": "6"
+                },
+                {
+                    "src": "static/detail7.webp",
+                    "id": "7"
+                },
+                {
+                    "src": "static/detail8.webp",
+                    "id": "8"
+                },
+                {
+                    "src": "static/detail9.webp",
+                    "id": "9"
+                },
+                {
+                    "src": "static/detail10.webp",
+                    "id": "10"
+                },
+                {
+                    "src": "static/detail11.webp",
+                    "id": "11"
+                },
+                {
+                    "src": "static/detail12.webp",
+                    "id": "12"
+                },
+                {
+                    "src": "static/detail13.webp",
+                    "id": "13"
+                },
+                {
+                    "src": "static/detail14.webp",
+                    "id": "14"
+                },
+                {
+                    "src": "static/detail15.webp",
+                    "id": "15"
+                },
+                {
+                    "src": "static/detail16.webp",
+                    "id": "16"
+                },
+                {
+                    "src": "static/detail17.webp",
+                    "id": "17"
+                }
+            ],
+            "productNum": 1,
+            "checked": 0
+        },
+        {
+            "_id": {
+                "$oid": "5ca75ee12913260264006a6a"
+            },
+            "productId": "201904023",
+            "productName": "坚果 Pro 2S",
+            "productNick": "坚果Pro2S",
+            "productDec": "双系统，无限屏",
+            "salePrice": 1798,
+            "productImage": "static/goods3.webp",
+            "productUrl": "",
+            "colors": [
+                {
+                    "id": "1",
+                    "dec": "碳黑色",
+                    "color": "black"
+                },
+                {
+                    "id": "2",
+                    "dec": "纯白色",
+                    "color": "white"
+                },
+                {
+                    "id": "3",
+                    "dec": "孔雀蓝",
+                    "color": "blue"
+                }
+            ],
+            "capacityList": [
+                {
+                    "id": "1",
+                    "dec": "6G + 64GB"
+                },
+                {
+                    "id": "2",
+                    "dec": "6G + 128GB"
+                },
+                {
+                    "id": "3",
+                    "dec": "8G + 128GB"
+                },
+                {
+                    "id": "4",
+                    "dec": "8G + 512GB"
+                },
+                {
+                    "id": "5",
+                    "dec": "8G + 1T"
+                }
+            ],
+            "info": [
+                {
+                    "src": "static/detail1.webp",
+                    "id": "1"
+                },
+                {
+                    "src": "static/detail2.webp",
+                    "id": "2"
+                },
+                {
+                    "src": "static/detail3.webp",
+                    "id": "3"
+                },
+                {
+                    "src": "static/detail4.webp",
+                    "id": "4"
+                },
+                {
+                    "src": "static/detail5.webp",
+                    "id": "5"
+                },
+                {
+                    "src": "static/detail6.webp",
+                    "id": "6"
+                },
+                {
+                    "src": "static/detail7.webp",
+                    "id": "7"
+                },
+                {
+                    "src": "static/detail8.webp",
+                    "id": "8"
+                },
+                {
+                    "src": "static/detail9.webp",
+                    "id": "9"
+                },
+                {
+                    "src": "static/detail10.webp",
+                    "id": "10"
+                },
+                {
+                    "src": "static/detail11.webp",
+                    "id": "11"
+                },
+                {
+                    "src": "static/detail12.webp",
+                    "id": "12"
+                },
+                {
+                    "src": "static/detail13.webp",
+                    "id": "13"
+                },
+                {
+                    "src": "static/detail14.webp",
+                    "id": "14"
+                },
+                {
+                    "src": "static/detail15.webp",
+                    "id": "15"
+                },
+                {
+                    "src": "static/detail16.webp",
+                    "id": "16"
+                },
+                {
+                    "src": "static/detail17.webp",
+                    "id": "17"
+                }
+            ],
+            "productNum": 1,
+            "checked": 0
+        },
+        {
+            "_id": {
+                "$oid": "5ca75eec2913260264006a6b"
+            },
+            "productId": "201904024",
+            "productName": "坚果 Pro 2S",
+            "productNick": "坚果Pro2S",
+            "productDec": "双系统，无限屏",
+            "salePrice": 1998,
+            "productImage": "static/goods4.webp",
+            "productUrl": "",
+            "colors": [
+                {
+                    "id": "1",
+                    "dec": "碳黑色",
+                    "color": "black"
+                },
+                {
+                    "id": "2",
+                    "dec": "纯白色",
+                    "color": "white"
+                },
+                {
+                    "id": "3",
+                    "dec": "孔雀蓝",
+                    "color": "blue"
+                }
+            ],
+            "capacityList": [
+                {
+                    "id": "1",
+                    "dec": "6G + 64GB"
+                },
+                {
+                    "id": "2",
+                    "dec": "6G + 128GB"
+                },
+                {
+                    "id": "3",
+                    "dec": "8G + 128GB"
+                },
+                {
+                    "id": "4",
+                    "dec": "8G + 512GB"
+                },
+                {
+                    "id": "5",
+                    "dec": "8G + 1T"
+                }
+            ],
+            "info": [
+                {
+                    "src": "static/detail1.webp",
+                    "id": "1"
+                },
+                {
+                    "src": "static/detail2.webp",
+                    "id": "2"
+                },
+                {
+                    "src": "static/detail3.webp",
+                    "id": "3"
+                },
+                {
+                    "src": "static/detail4.webp",
+                    "id": "4"
+                },
+                {
+                    "src": "static/detail5.webp",
+                    "id": "5"
+                },
+                {
+                    "src": "static/detail6.webp",
+                    "id": "6"
+                },
+                {
+                    "src": "static/detail7.webp",
+                    "id": "7"
+                },
+                {
+                    "src": "static/detail8.webp",
+                    "id": "8"
+                },
+                {
+                    "src": "static/detail9.webp",
+                    "id": "9"
+                },
+                {
+                    "src": "static/detail10.webp",
+                    "id": "10"
+                },
+                {
+                    "src": "static/detail11.webp",
+                    "id": "11"
+                },
+                {
+                    "src": "static/detail12.webp",
+                    "id": "12"
+                },
+                {
+                    "src": "static/detail13.webp",
+                    "id": "13"
+                },
+                {
+                    "src": "static/detail14.webp",
+                    "id": "14"
+                },
+                {
+                    "src": "static/detail15.webp",
+                    "id": "15"
+                },
+                {
+                    "src": "static/detail16.webp",
+                    "id": "16"
+                },
+                {
+                    "src": "static/detail17.webp",
+                    "id": "17"
+                }
+            ],
+            "productNum": 1,
+            "checked": 0
+        },
+        {
+            "_id": {
+                "$oid": "5ca75efa2913260264006a6c"
+            },
+            "productId": "201904025",
+            "productName": "坚果 Pro 2 特别版",
+            "productNick": "坚果Pro2",
+            "productDec": "漂亮得不像实力派",
+            "salePrice": 1899,
+            "productImage": "static/goods5.webp",
+            "productUrl": "",
+            "colors": [
+                {
+                    "id": "1",
+                    "dec": "碳黑色",
+                    "color": "black"
+                },
+                {
+                    "id": "2",
+                    "dec": "纯白色",
+                    "color": "white"
+                },
+                {
+                    "id": "3",
+                    "dec": "孔雀蓝",
+                    "color": "blue"
+                }
+            ],
+            "capacityList": [
+                {
+                    "id": "1",
+                    "dec": "6G + 64GB"
+                },
+                {
+                    "id": "2",
+                    "dec": "6G + 128GB"
+                },
+                {
+                    "id": "3",
+                    "dec": "8G + 128GB"
+                },
+                {
+                    "id": "4",
+                    "dec": "8G + 512GB"
+                },
+                {
+                    "id": "5",
+                    "dec": "8G + 1T"
+                }
+            ],
+            "info": [
+                {
+                    "src": "static/detail1.webp",
+                    "id": "1"
+                },
+                {
+                    "src": "static/detail2.webp",
+                    "id": "2"
+                },
+                {
+                    "src": "static/detail3.webp",
+                    "id": "3"
+                },
+                {
+                    "src": "static/detail4.webp",
+                    "id": "4"
+                },
+                {
+                    "src": "static/detail5.webp",
+                    "id": "5"
+                },
+                {
+                    "src": "static/detail6.webp",
+                    "id": "6"
+                },
+                {
+                    "src": "static/detail7.webp",
+                    "id": "7"
+                },
+                {
+                    "src": "static/detail8.webp",
+                    "id": "8"
+                },
+                {
+                    "src": "static/detail9.webp",
+                    "id": "9"
+                },
+                {
+                    "src": "static/detail10.webp",
+                    "id": "10"
+                },
+                {
+                    "src": "static/detail11.webp",
+                    "id": "11"
+                },
+                {
+                    "src": "static/detail12.webp",
+                    "id": "12"
+                },
+                {
+                    "src": "static/detail13.webp",
+                    "id": "13"
+                },
+                {
+                    "src": "static/detail14.webp",
+                    "id": "14"
+                },
+                {
+                    "src": "static/detail15.webp",
+                    "id": "15"
+                },
+                {
+                    "src": "static/detail16.webp",
+                    "id": "16"
+                },
+                {
+                    "src": "static/detail17.webp",
+                    "id": "17"
+                }
+            ],
+            "productNum": 1,
+            "checked": 0
+        },
+        {
+            "_id": {
+                "$oid": "5ca75f1c2913260264006a6d"
+            },
+            "productId": "201904026",
+            "productName": "坚果 3",
+            "productNick": "坚果 3",
+            "productDec": "漂亮得不像实力派",
+            "salePrice": 1299,
+            "productImage": "static/goods6.webp",
+            "productUrl": "",
+            "colors": [
+                {
+                    "id": "1",
+                    "dec": "碳黑色",
+                    "color": "black"
+                },
+                {
+                    "id": "2",
+                    "dec": "纯白色",
+                    "color": "white"
+                },
+                {
+                    "id": "3",
+                    "dec": "孔雀蓝",
+                    "color": "blue"
+                }
+            ],
+            "capacityList": [
+                {
+                    "id": "1",
+                    "dec": "6G + 64GB"
+                },
+                {
+                    "id": "2",
+                    "dec": "6G + 128GB"
+                },
+                {
+                    "id": "3",
+                    "dec": "8G + 128GB"
+                },
+                {
+                    "id": "4",
+                    "dec": "8G + 512GB"
+                },
+                {
+                    "id": "5",
+                    "dec": "8G + 1T"
+                }
+            ],
+            "info": [
+                {
+                    "src": "static/detail1.webp",
+                    "id": "1"
+                },
+                {
+                    "src": "static/detail2.webp",
+                    "id": "2"
+                },
+                {
+                    "src": "static/detail3.webp",
+                    "id": "3"
+                },
+                {
+                    "src": "static/detail4.webp",
+                    "id": "4"
+                },
+                {
+                    "src": "static/detail5.webp",
+                    "id": "5"
+                },
+                {
+                    "src": "static/detail6.webp",
+                    "id": "6"
+                },
+                {
+                    "src": "static/detail7.webp",
+                    "id": "7"
+                },
+                {
+                    "src": "static/detail8.webp",
+                    "id": "8"
+                },
+                {
+                    "src": "static/detail9.webp",
+                    "id": "9"
+                },
+                {
+                    "src": "static/detail10.webp",
+                    "id": "10"
+                },
+                {
+                    "src": "static/detail11.webp",
+                    "id": "11"
+                },
+                {
+                    "src": "static/detail12.webp",
+                    "id": "12"
+                },
+                {
+                    "src": "static/detail13.webp",
+                    "id": "13"
+                },
+                {
+                    "src": "static/detail14.webp",
+                    "id": "14"
+                },
+                {
+                    "src": "static/detail15.webp",
+                    "id": "15"
+                },
+                {
+                    "src": "static/detail16.webp",
+                    "id": "16"
+                },
+                {
+                    "src": "static/detail17.webp",
+                    "id": "17"
+                }
+            ],
+            "productNum": 1,
+            "checked": 0
+        },
+        {
+            "_id": {
+                "$oid": "5ca75f4d2913260264006a6e"
+            },
+            "productId": "201904031",
+            "productName": "卫衣 经典款",
+            "productNick": "卫衣",
+            "productDec": "风格简洁、舒适服帖",
+            "productLabel": "男款",
+            "salePrice": 249,
+            "productImage": "static/circum1.webp",
+            "color": [
+                {
+                    "img": "static/color1.jpg",
+                    "dec": "黑色",
+                    "color": "black",
+                    "id": "1"
+                },
+                {
+                    "img": "static/color2.jpg",
+                    "dec": "纯白色",
+                    "color": "white",
+                    "id": "2"
+                },
+                {
+                    "img": "static/color3.jpg",
+                    "dec": "孔雀蓝",
+                    "color": "blue",
+                    "id": "3"
+                },
+                {
+                    "img": "static/color4.jpg",
+                    "dec": "灰色",
+                    "color": "gray",
+                    "id": "4"
+                },
+                {
+                    "img": "static/color5.jpg",
+                    "dec": "红色",
+                    "color": "red",
+                    "id": "5"
+                },
+                {
+                    "img": "static/color6.jpg",
+                    "dec": "绿色",
+                    "color": "green",
+                    "id": "6"
+                }
+            ],
+            "info": [
+                {
+                    "src": "static/detail1.webp",
+                    "id": "1"
+                },
+                {
+                    "src": "static/detail2.webp",
+                    "id": "2"
+                },
+                {
+                    "src": "static/detail3.webp",
+                    "id": "3"
+                },
+                {
+                    "src": "static/detail4.webp",
+                    "id": "4"
+                },
+                {
+                    "src": "static/detail5.webp",
+                    "id": "5"
+                },
+                {
+                    "src": "static/detail6.webp",
+                    "id": "6"
+                },
+                {
+                    "src": "static/detail7.webp",
+                    "id": "7"
+                },
+                {
+                    "src": "static/detail8.webp",
+                    "id": "8"
+                },
+                {
+                    "src": "static/detail9.webp",
+                    "id": "9"
+                },
+                {
+                    "src": "static/detail10.webp",
+                    "id": "10"
+                }
+            ],
+            "productUrl": "",
+            "productNum": 1,
+            "checked": 0
+        },
+        {
+            "_id": {
+                "$oid": "5ca75f8c2913260264006a6f"
+            },
+            "productId": "201904032",
+            "productName": "卫衣 圆领 经典款",
+            "productNick": "卫衣",
+            "productDec": "风格简洁、舒适服帖",
+            "productLabel": "男款",
+            "salePrice": 199,
+            "productImage": "static/circum2.webp",
+            "color": [
+                {
+                    "img": "static/color1.jpg",
+                    "dec": "黑色",
+                    "color": "black",
+                    "id": "1"
+                },
+                {
+                    "img": "static/color2.jpg",
+                    "dec": "纯白色",
+                    "color": "white",
+                    "id": "2"
+                },
+                {
+                    "img": "static/color3.jpg",
+                    "dec": "孔雀蓝",
+                    "color": "blue",
+                    "id": "3"
+                },
+                {
+                    "img": "static/color4.jpg",
+                    "dec": "灰色",
+                    "color": "gray",
+                    "id": "4"
+                },
+                {
+                    "img": "static/color5.jpg",
+                    "dec": "红色",
+                    "color": "red",
+                    "id": "5"
+                },
+                {
+                    "img": "static/color6.jpg",
+                    "dec": "绿色",
+                    "color": "green",
+                    "id": "6"
+                }
+            ],
+            "info": [
+                {
+                    "src": "static/detail1.webp",
+                    "id": "1"
+                },
+                {
+                    "src": "static/detail2.webp",
+                    "id": "2"
+                },
+                {
+                    "src": "static/detail3.webp",
+                    "id": "3"
+                },
+                {
+                    "src": "static/detail4.webp",
+                    "id": "4"
+                },
+                {
+                    "src": "static/detail5.webp",
+                    "id": "5"
+                },
+                {
+                    "src": "static/detail6.webp",
+                    "id": "6"
+                },
+                {
+                    "src": "static/detail7.webp",
+                    "id": "7"
+                },
+                {
+                    "src": "static/detail8.webp",
+                    "id": "8"
+                },
+                {
+                    "src": "static/detail9.webp",
+                    "id": "9"
+                },
+                {
+                    "src": "static/detail10.webp",
+                    "id": "10"
+                }
+            ],
+            "productUrl": "",
+            "productNum": 1,
+            "checked": 0
+        },
+        {
+            "_id": {
+                "$oid": "5ca75f972913260264006a70"
+            },
+            "productId": "201904034",
+            "productName": "卫衣 本初子午线",
+            "productNick": "卫衣",
+            "productDec": "风格简洁、舒适服帖",
+            "productLabel": "男款",
+            "salePrice": 249,
+            "productImage": "static/circum4.webp",
+            "color": [
+                {
+                    "img": "static/color2.jpg",
+                    "dec": "纯白色",
+                    "color": "white",
+                    "id": "1"
+                },
+                {
+                    "img": "static/color9.jpg",
+                    "dec": "绿色",
+                    "color": "green",
+                    "id": "2"
+                },
+                {
+                    "img": "static/color10.jpg",
+                    "dec": "纯白色",
+                    "color": "white",
+                    "id": "3"
+                }
+            ],
+            "info": [
+                {
+                    "src": "static/detail1.webp",
+                    "id": "1"
+                },
+                {
+                    "src": "static/detail2.webp",
+                    "id": "2"
+                },
+                {
+                    "src": "static/detail3.webp",
+                    "id": "3"
+                },
+                {
+                    "src": "static/detail4.webp",
+                    "id": "4"
+                },
+                {
+                    "src": "static/detail5.webp",
+                    "id": "5"
+                },
+                {
+                    "src": "static/detail6.webp",
+                    "id": "6"
+                },
+                {
+                    "src": "static/detail7.webp",
+                    "id": "7"
+                },
+                {
+                    "src": "static/detail8.webp",
+                    "id": "8"
+                },
+                {
+                    "src": "static/detail9.webp",
+                    "id": "9"
+                },
+                {
+                    "src": "static/detail10.webp",
+                    "id": "10"
+                }
+            ],
+            "productUrl": "",
+            "productNum": 1,
+            "checked": 0
+        },
+        {
+            "_id": {
+                "$oid": "5ca75fa32913260264006a71"
+            },
+            "productId": "201904035",
+            "productName": "卫衣 阿加莎·克里斯蒂出生",
+            "productNick": "卫衣",
+            "productDec": "风格简洁、舒适服帖",
+            "productLabel": "男款",
+            "salePrice": 249,
+            "productImage": "static/circum5.webp",
+            "color": [
+                {
+                    "img": "static/color2.jpg",
+                    "dec": "纯白色",
+                    "color": "white",
+                    "id": "1"
+                },
+                {
+                    "img": "static/color9.jpg",
+                    "dec": "绿色",
+                    "color": "green",
+                    "id": "2"
+                },
+                {
+                    "img": "static/color10.jpg",
+                    "dec": "纯白色",
+                    "color": "white",
+                    "id": "3"
+                }
+            ],
+            "info": [
+                {
+                    "src": "static/detail1.webp",
+                    "id": "1"
+                },
+                {
+                    "src": "static/detail2.webp",
+                    "id": "2"
+                },
+                {
+                    "src": "static/detail3.webp",
+                    "id": "3"
+                },
+                {
+                    "src": "static/detail4.webp",
+                    "id": "4"
+                },
+                {
+                    "src": "static/detail5.webp",
+                    "id": "5"
+                },
+                {
+                    "src": "static/detail6.webp",
+                    "id": "6"
+                },
+                {
+                    "src": "static/detail7.webp",
+                    "id": "7"
+                },
+                {
+                    "src": "static/detail8.webp",
+                    "id": "8"
+                },
+                {
+                    "src": "static/detail9.webp",
+                    "id": "9"
+                },
+                {
+                    "src": "static/detail10.webp",
+                    "id": "10"
+                }
+            ],
+            "productUrl": "",
+            "productNum": 1,
+            "checked": 0
+        },
+        {
+            "_id": {
+                "$oid": "5ca75fce2913260264006a72"
+            },
+            "productId": "201904033",
+            "productName": "Smartisan 牛津纺衬衫",
+            "productNick": "衬衫",
+            "productDec": "一件无拘无束的舒适衬衫",
+            "productLabel": "长袖",
+            "salePrice": 199,
+            "productImage": "static/circum3.webp",
+            "color": [
+                {
+                    "img": "static/color2.jpg",
+                    "dec": "红色",
+                    "color": "red",
+                    "id": "1"
+                },
+                {
+                    "img": "static/color5.jpg",
+                    "dec": "绿色",
+                    "color": "green",
+                    "id": "2"
+                },
+                {
+                    "img": "static/color9.jpg",
+                    "dec": "灰色",
+                    "color": "gray",
+                    "id": "3"
+                },
+                {
+                    "img": "static/color10.jpg",
+                    "dec": "纯白色",
+                    "color": "white",
+                    "id": "4"
+                }
+            ],
+            "info": [
+                {
+                    "src": "static/detail1.webp",
+                    "id": "1"
+                },
+                {
+                    "src": "static/detail2.webp",
+                    "id": "2"
+                },
+                {
+                    "src": "static/detail3.webp",
+                    "id": "3"
+                },
+                {
+                    "src": "static/detail4.webp",
+                    "id": "4"
+                },
+                {
+                    "src": "static/detail5.webp",
+                    "id": "5"
+                },
+                {
+                    "src": "static/detail6.webp",
+                    "id": "6"
+                },
+                {
+                    "src": "static/detail7.webp",
+                    "id": "7"
+                },
+                {
+                    "src": "static/detail8.webp",
+                    "id": "8"
+                },
+                {
+                    "src": "static/detail9.webp",
+                    "id": "9"
+                },
+                {
+                    "src": "static/detail10.webp",
+                    "id": "10"
+                }
+            ],
+            "productUrl": "",
+            "productNum": 1,
+            "checked": 0
+        },
+        {
+            "_id": {
+                "$oid": "5ca76f472913260264006a73"
+            },
+            "productId": "201904011",
+            "productName": "畅呼吸智能落地式加湿器",
+            "productNick": "加湿器",
+            "productDec": "健康无雾、便携上加水",
+            "salePrice": 1999,
+            "productImage": "static/hotGoods1.webp",
+            "productUrl": "",
+            "productNum": 1,
+            "checked": 0
+        },
+        {
+            "_id": {
+                "$oid": "5ca76f4d2913260264006a74"
+            },
+            "productId": "201904012",
+            "productName": "坚果 Pro 2S",
+            "productNick": "坚果Pro2S",
+            "productDec": "双系统，无限屏",
+            "salePrice": 1798,
+            "productImage": "static/hotGoods2.webp",
+            "productUrl": "",
+            "productNum": 1,
+            "checked": 0
+        },
+        {
+            "_id": {
+                "$oid": "5ca76f542913260264006a75"
+            },
+            "productId": "201904013",
+            "productName": "坚果 R1",
+            "productNick": "坚果 R1",
+            "productDec": "次世代旗舰手机，内藏来自未来的“电脑”",
+            "salePrice": 3799,
+            "productImage": "static/hotGoods3.webp",
+            "productUrl": "",
+            "productNum": 1,
+            "checked": 0
+        },
+        {
+            "_id": {
+                "$oid": "5ca76f5e2913260264006a76"
+            },
+            "productId": "201904014",
+            "productName": "畅呼吸智能空气净化器",
+            "productNick": "空气净化器",
+            "productDec": "超强净化能力、智能操控",
+            "salePrice": 3499,
+            "productImage": "static/hotGoods4.webp",
+            "productUrl": "",
+            "productNum": 1,
+            "checked": 0
+        },
+        {
+            "_id": {
+                "$oid": "5ca76f642913260264006a77"
+            },
+            "productId": "201904015",
+            "productName": "畅呼吸智能空气净化器超级除甲醛版",
+            "productNick": "空气净化器",
+            "productDec": "强力除甲醛，就选畅呼吸",
+            "salePrice": 3499,
+            "productImage": "static/hotGoods5.webp",
+            "productUrl": "",
+            "productNum": 1,
+            "checked": 0
+        },
+        {
+            "_id": {
+                "$oid": "5ca76f692913260264006a78"
+            },
+            "productId": "201904016",
+            "productName": "坚果 3",
+            "productNick": "坚果 3",
+            "productDec": "漂亮得不像实力派",
+            "salePrice": 1299,
+            "productImage": "static/hotGoods6.webp",
+            "productUrl": "",
+            "productNum": 1,
+            "checked": 0
+        }
+    ]
+}

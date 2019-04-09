@@ -1,0 +1,115 @@
+// 颜色定义规范
+$color-background = #fff
+$color-background-h = #1d1d1d
+$color-text = #fff
+$color-text-t = #666
+$color-text-h = #333
+$color-text-d = #7f7f7f
+$color-text-m = #d44d44
+
+//字体定义规范
+$font-size-d = 8px
+$font-size-h4 = 12.5px
+$font-size-h2 = 15.625px
+$font-size-u = 17.5px
+$font-size-t = 18px
+
+border-1px($color)
+  position: relative
+  &:after
+    display: block
+    position: absolute
+    left: 0
+    bottom: 0
+    width: 100%
+    border-top: 1px solid $color
+    content: ' '
+
+border-1px-r($color)
+  position: relative
+  &:after
+    display: block
+    position: absolute
+    bottom: 0
+    top: 0
+    width: 100%
+    border-right: 1px solid $color
+    content: ' '
+
+border-1px-l($color)
+  position: relative
+  &:after
+    display: block
+    position: absolute
+    left: 0
+    bottom: 44px
+    width: 100%
+    border-top: 1px solid $color
+    content: ' '
+
+border-1px-h($color, $top)
+  position: relative
+  &:before
+    display: block
+    position: absolute
+    top: $top
+    left: 0
+    width: 100%
+    border-top: 1px solid $color
+    content: ' '
+
+border-none()
+  &:after
+    display: none
+
+line-8px($color)
+  position: relative
+  &:after
+    display: block
+    position: absolute
+    left: 0
+    bottom: 0
+    width: 100%
+    border-top: 8px solid $color
+    content: ' '
+
+btn-blue()
+  color #ffffff
+  text-align center
+  text-shadow 0 -1px 0 rgba(0, 0, 0, 0.15)
+  border-radius 6px
+  background linear-gradient(#6f94e8, #5178df)
+  box-shadow inset 0 -1px 1px rgba(0, 0, 0, 0.2), 0 0 1px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.2)
+
+btn-white()
+  text-align center
+  color rgba(0, 0, 0, 0.6)
+  background linear-gradient(rgba(0, 0, 0, 0.01), hsla(0, 0%, 100%, 0.01))
+  box-shadow inset 0 2px 4px hsla(0, 0%, 100%, 0.3)
+  border 1px solid rgba(0, 0, 0, 0.2)
+  border-radius 6px
+
+check-box()
+  display block
+  width 24px
+  height 24px
+  box-sizing border-box
+  background url('/static/check.png') no-repeat
+  background-size 24px 24px
+
+btn-subtract($bg-size,$bg-y)
+  background url('/static/add.png') no-repeat
+  background-size $bg-size auto
+  background-position 0px $bg-y
+
+
+btn-add($bg-size,$bg-y)
+  background url('/static/add.png') no-repeat
+  background-size $bg-size auto
+  background-position 0px $bg-y
+
+
+text-dots()
+  text-overflow ellipsis
+  white-space nowrap
+  overflow hidden
